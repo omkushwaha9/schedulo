@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nplr6OuNspc=",
+  "success": true,
+  "projectFilePath": "/Users/omkushwaha/Documents/Projects/schedulo/src/Schedulo.Api/Schedulo.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/omkushwaha/.nuget/packages/microsoft.aspnetcore.openapi/10.0.11/microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "/Users/omkushwaha/.nuget/packages/microsoft.openapi/2.7.5/microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}

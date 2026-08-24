@@ -1,2 +1,8 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Schedulo.Api/Schedulo.Api.csproj" />
+    <Project Path="src/Schedulo.Application/Schedulo.Application.csproj" />
+    <Project Path="src/Schedulo.Domain/Schedulo.Domain.csproj" />
+    <Project Path="src/Schedulo.Infrastructure/Schedulo.Infrastructure.csproj" />
+  </Folder>
 </Solution>

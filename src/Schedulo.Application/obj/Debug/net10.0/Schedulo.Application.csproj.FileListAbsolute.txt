@@ -1,0 +1,16 @@
+/Users/omkushwaha/Documents/Projects/schedulo/src/Schedulo.Application/bin/Debug/net10.0/Schedulo.Application.deps.json
+/Users/omkushwaha/Documents/Projects/schedulo/src/Schedulo.Application/bin/Debug/net10.0/Schedulo.Application.dll
+/Users/omkushwaha/Documents/Projects/schedulo/src/Schedulo.Application/bin/Debug/net10.0/Schedulo.Application.pdb
+/Users/omkushwaha/Documents/Projects/schedulo/src/Schedulo.Application/bin/Debug/net10.0/Schedulo.Domain.dll
+/Users/omkushwaha/Documents/Projects/schedulo/src/Schedulo.Application/bin/Debug/net10.0/Schedulo.Domain.pdb
+/Users/omkushwaha/Documents/Projects/schedulo/src/Schedulo.Application/obj/Debug/net10.0/Schedulo.Application.csproj.AssemblyReference.cache
+/Users/omkushwaha/Documents/Projects/schedulo/src/Schedulo.Application/obj/Debug/net10.0/Schedulo.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omkushwaha/Documents/Projects/schedulo/src/Schedulo.Application/obj/Debug/net10.0/Schedulo.Application.AssemblyInfoInputs.cache
+/Users/omkushwaha/Documents/Projects/schedulo/src/Schedulo.Application/obj/Debug/net10.0/Schedulo.Application.AssemblyInfo.cs
+/Users/omkushwaha/Documents/Projects/schedulo/src/Schedulo.Application/obj/Debug/net10.0/Schedulo.Application.csproj.CoreCompileInputs.cache
+/Users/omkushwaha/Documents/Projects/schedulo/src/Schedulo.Application/obj/Debug/net10.0/Schedulo.Application.sourcelink.json
+/Users/omkushwaha/Documents/Projects/schedulo/src/Schedulo.Application/obj/Debug/net10.0/Schedulo.523F7C88.Up2Date
+/Users/omkushwaha/Documents/Projects/schedulo/src/Schedulo.Application/obj/Debug/net10.0/Schedulo.Application.dll
+/Users/omkushwaha/Documents/Projects/schedulo/src/Schedulo.Application/obj/Debug/net10.0/refint/Schedulo.Application.dll
+/Users/omkushwaha/Documents/Projects/schedulo/src/Schedulo.Application/obj/Debug/net10.0/Schedulo.Application.pdb
+/Users/omkushwaha/Documents/Projects/schedulo/src/Schedulo.Application/obj/Debug/net10.0/ref/Schedulo.Application.dll
