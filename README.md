@@ -119,8 +119,7 @@ The application is divided into four primary layers:
                          └─────────────────────────┘
                          
 ````
-
-
+---
 ### Dependency Direction
 
 Schedulo follows the Dependency Inversion Principle and Clean Architecture dependency rules.
@@ -145,7 +144,7 @@ Schedulo.Application
       ▼
 Schedulo.Domain
 ````
-
+---
 ### Dependency Rules
 
 * `Schedulo.Domain` must not depend on any other Schedulo project.
