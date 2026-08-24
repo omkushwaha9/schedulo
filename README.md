@@ -117,3 +117,25 @@ The application is divided into four primary layers:
                          │ Repositories            │
                          │ External Services       │
                          └─────────────────────────┘
+
+## Dependency Direction
+
+The project follows the Dependency Inversion Principle.
+
+```text
+Schedulo.Api
+      │
+      ▼
+Schedulo.Application
+      │
+      ▼
+Schedulo.Domain
+
+
+Schedulo.Infrastructure
+      │
+      ▼
+Schedulo.Application
+      │
+      ▼
+Schedulo.Domain
