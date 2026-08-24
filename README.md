@@ -116,9 +116,10 @@ The application is divided into four primary layers:
                          │ Authentication          │
                          │ Repositories            │
                          │ External Services       │
-                         └─────────────────────────┘````md
+                         └─────────────────────────┘
+                         ````md
 
-## Dependency Direction
+### Dependency Direction
 
 Schedulo follows the Dependency Inversion Principle and Clean Architecture dependency rules.
 
