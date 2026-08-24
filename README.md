@@ -117,7 +117,9 @@ The application is divided into four primary layers:
                          │ Repositories            │
                          │ External Services       │
                          └─────────────────────────┘
-                         ````md
+                         
+````
+
 
 ### Dependency Direction
 
